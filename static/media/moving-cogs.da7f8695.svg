@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g transform="translate(50 50)">
+	<g transform="translate(-19 -19) scale(0.6)">
+		<g transform="rotate(90)">
+			<animateTransform  accumulate="none" additive="replace" attributeName="transform" begin="0s" calcMode="linear" dur="2s" fill="remove" keyTimes="0;1" repeatCount="indefinite" restart="always" type="rotate" values="0;360"></animateTransform>
+			<path d="M37.3-7h10V7h-10c-1,5.2-3,10.1-6,14.5l0,0l7.1,7.1l-9.9,9.9l-7.1-7.1c-4.4,3-9.3,5-14.5,6l0,0v10H-7v-10
+				c-5.2-1-10.1-3-14.5-6l0,0l-7.1,7.1l-9.9-9.9l7.1-7.1c-3-4.4-5-9.3-6-14.5l0,0h-10V-7h10c1-5.2,3-10.1,6-14.5l0,0l-7.1-7.1
+				l9.9-9.9l7.1,7.1c4.4-3,9.3-5,14.5-6l0,0v-10H7v10c5.2,1,10.1,3,14.5,6l0,0l7.1-7.1l9.9,9.9l-7.1,7.1C34.3-17.1,36.4-12.2,37.3-7
+				 M0-23c-12.7,0-23,10.3-23,23s10.3,23,23,23S23,12.7,23,0S12.7-23,0-23"/>
+		</g>
+	</g>
+	<g transform="translate(19 19) scale(0.6)">
+		<g transform="rotate(247.5)">
+      <animateTransform  accumulate="none" additive="replace" attributeName="transform" begin="-0.125s" calcMode="linear" dur="2s" fill="remove" keyTimes="0;1" repeatCount="indefinite" restart="always" type="rotate" values="360;0"></animateTransform>
+			<path d="M37.3-7l10,0l0,14l-10,0c-1,5.2-3,10.1-6,14.5l0,0l7.1,7.1l-9.9,9.9l-7.1-7.1c-4.4,3-9.3,5-14.5,6l0,0l0,10l-14,0l0-10
+				c-5.2-1-10.1-3-14.5-6l0,0l-7.1,7.1l-9.9-9.9l7.1-7.1c-3-4.4-5-9.3-6-14.5l0,0l-10,0l0-14l10,0c1-5.2,3-10.1,6-14.5l0,0l-7.1-7.1
+				l9.9-9.9l7.1,7.1c4.4-3,9.3-5,14.5-6l0,0l0-10l14,0l0,10c5.2,1,10.1,3,14.5,6l0,0l7.1-7.1l9.9,9.9l-7.1,7.1
+				C34.3-17.1,36.4-12.2,37.3-7 M0-23c-12.7,0-23,10.3-23,23s10.3,23,23,23S23,12.7,23,0S12.7-23,0-23"/>
+		</g>
+	</g>
+</g>
+</svg>
